@@ -12,3 +12,9 @@ link:     https://some_css_stuff
 -->
 
 # liascript-test
+
+[qr-code](https://oclock.io)
+
+```js
+var a = "b"
+```
