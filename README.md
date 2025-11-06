@@ -21,6 +21,17 @@ var a = "b"
 
 ## Quiz
 
-- [ ] Option A
-- [x] Option B
-- [ ] Option C
+Bla bla
+
+<!-- data-solution-button="off" -->
+- [( )] Option A
+- [(x)] Option B
+- [( )] Option C
+
+Bla bla
+
+<!-- data-solution-button="off" -->
+- [(0)] Option A
+- [(1)] Option B
+- [(2)] Option C
+
