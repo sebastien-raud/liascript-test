@@ -18,3 +18,9 @@ link:     https://some_css_stuff
 ```js
 var a = "b"
 ```
+
+<code-lia lang="js" line-numbers highlight="2">
+function hello() {
+  console.log("Hello World!");
+}
+</code-lia>
