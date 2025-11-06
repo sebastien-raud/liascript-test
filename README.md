@@ -19,8 +19,8 @@ link:     https://some_css_stuff
 var a = "b"
 ```
 
-<code-lia lang="js" line-numbers highlight="2">
-function hello() {
-  console.log("Hello World!");
-}
-</code-lia>
+## Quiz
+
+- [ ] Option A
+- [x] Option B
+- [ ] Option C
